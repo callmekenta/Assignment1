@@ -10,4 +10,4 @@ To use this program, run the program and input the initital amount, the years of
 To use this program, simply run the program and slowly drag any of the points on the circle and the angles will be redefined.
 
 ## Question 4
-To use this program, a text file is prefered. When loaded up, put in the path to the text file in the textfield and it should reveal the bar graph that counts the distinct alphabets it contains
+To use this program, a text file is prefered. Put the provided "interesting.txt" file in the same folder as the src folder for this question(as it uses the file for intitial histogram). When loaded up, put in the path to the text file in the textfield and it should reveal the bar graph that counts the distinct alphabets it contains
